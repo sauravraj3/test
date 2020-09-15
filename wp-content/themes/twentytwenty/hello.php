@@ -1,0 +1,5 @@
+<?php
+
+echo "hELLOE wORLD"
+
+?>
